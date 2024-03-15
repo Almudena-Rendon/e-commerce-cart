@@ -22,7 +22,22 @@ https://e-commerce-cart-three.vercel.app/
 - CSS: The styling language for enhancing the visual presentation.
 
 ## Getting Started
-1. Clone this repository.
-2. Install dependencies using `npm install`.
-3. Run the app using `npm run dev`.
+
+1. Clone the repository:
+
+   git clone https://github.com/Almudena-Rendon/movie-searcher.git
+
+2. Navigate to the project
+
+   cd movie-searcher
+   
+4. Install dependencies
+
+   npm install
+   
+6. Run the development server
+
+   npm run dev
+
+   Open http://localhost:3000 in your browser to view the app.
 
