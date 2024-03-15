@@ -1,4 +1,4 @@
-# React + Vite
+# React Shop
 
 ![image](https://github.com/Almudena-Rendon/e-commerce-cart/assets/126793941/fcde791d-60fe-4226-978f-65b1f9d36756)
 
