@@ -1,6 +1,6 @@
 # React Shop
 
-![image](https://github.com/Almudena-Rendon/e-commerce-cart/assets/126793941/fcde791d-60fe-4226-978f-65b1f9d36756)
+![freepik__background__30319](https://github.com/user-attachments/assets/da73e10b-75fe-4e70-9624-b2ad53f2458e)
 
 ## Description
 React Shop is a web application built with React and Vite that allows users to browse and purchase products conveniently. With intuitive filters, users can easily narrow down their search by categories and prices. Additionally, React Shop provides a seamless shopping experience with a built-in shopping cart feature.
